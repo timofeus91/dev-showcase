@@ -23,7 +23,5 @@
     /* Добавляем поддержку типов Node.js */
     "types": ["node"]
   },
-  "include": [
-    "vite.config.ts"
-  ]
+  "include": ["vite.config.ts"]
 }

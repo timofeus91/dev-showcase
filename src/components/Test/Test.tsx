@@ -1,10 +1,5 @@
-
 const Test = () => {
-
-
-    return (
-        <p>Test</p>
-    )
-}
+  return <p>Test</p>;
+};
 
 export default Test;
