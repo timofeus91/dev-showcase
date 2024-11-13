@@ -49,7 +49,7 @@ export default tseslint.config(
       "prettier/prettier": "warn",
       "linebreak-style": ["error", "windows"],
       "arrow-body-style": ["error", "as-needed"],
-      "import/order": ["error", { "newlines-between": "always" }],
+      "import/order": "error",
       "import/no-unresolved": "error",
       "import/no-duplicates": "error",
     },
