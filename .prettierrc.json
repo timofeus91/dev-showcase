@@ -4,5 +4,6 @@
   "trailingComma": "all",
   "bracketSpacing": true,
   "printWidth": 80,
-  "proseWrap": "always"
+  "proseWrap": "always",
+  "endOfLine": "crlf"
 }
